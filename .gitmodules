@@ -1,8 +1,8 @@
 [submodule "New-CMMS-Backend"]
 	path = New-CMMS-Backend
 	url = https://github.com/Chronos193/New-CMMS-Backend
-	branch = main
+	branch = master
 [submodule "New-CMMS-Frontend"]
 	path = New-CMMS-Frontend
 	url = https://github.com/Chronos193/New-CMMS-Frontend
-	branch = main
+	branch = master
